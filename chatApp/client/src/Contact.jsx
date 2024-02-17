@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import Avatar from "./Avatar";
 
 function Contact({ id, username, onClick, selected, online }) {
